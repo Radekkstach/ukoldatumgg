@@ -1,0 +1,12 @@
+M:\ITB3\stachr.05\PROgramovani\datumacas1\datumacas1\bin\Debug\datumacas1.exe.config
+M:\ITB3\stachr.05\PROgramovani\datumacas1\datumacas1\bin\Debug\datumacas1.exe
+M:\ITB3\stachr.05\PROgramovani\datumacas1\datumacas1\bin\Debug\datumacas1.pdb
+M:\ITB3\stachr.05\PROgramovani\datumacas1\datumacas1\obj\Debug\datumacas1.csprojAssemblyReference.cache
+M:\ITB3\stachr.05\PROgramovani\datumacas1\datumacas1\obj\Debug\datumacas1.Form1.resources
+M:\ITB3\stachr.05\PROgramovani\datumacas1\datumacas1\obj\Debug\datumacas1.Properties.Resources.resources
+M:\ITB3\stachr.05\PROgramovani\datumacas1\datumacas1\obj\Debug\datumacas1.csproj.GenerateResource.cache
+M:\ITB3\stachr.05\PROgramovani\datumacas1\datumacas1\obj\Debug\datumacas1.csproj.CoreCompileInputs.cache
+M:\ITB3\stachr.05\PROgramovani\datumacas1\datumacas1\obj\Debug\datumacas1.exe
+M:\ITB3\stachr.05\PROgramovani\datumacas1\datumacas1\obj\Debug\datumacas1.pdb
+M:\ITB3\stachr.05\PROgramovani\datumacas1\datumacas1\obj\Debug\datumacas1.Form2.resources
+M:\ITB3\stachr.05\PROgramovani\datumacas1\datumacas1\obj\Debug\datumacas1.Form3.resources
